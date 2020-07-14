@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "mam:blocks/opal_block",
+        "top": "mam:blocks/opal_block",
+        "side": "mam:blocks/opal_block"
+    }
+}

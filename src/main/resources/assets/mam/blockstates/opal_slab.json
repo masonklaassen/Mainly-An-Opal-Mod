@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "mam:block/opal_slab" },
+        "type=top": { "model": "mam:block/opal_slab_top" },
+        "type=double": { "model": "mam:block/opal_block" }
+    }
+}

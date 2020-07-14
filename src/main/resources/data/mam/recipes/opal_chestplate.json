@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mam:opal_ingot"
+    }
+  },
+  "result": {
+    "item": "mam:armor_opal_body",
+    "count": 1
+  }
+}

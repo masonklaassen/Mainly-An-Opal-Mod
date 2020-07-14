@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " ##",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mam:opal_block"
+    }
+  },
+  "result": {
+    "item": "mam:opal_stairs",
+    "count": 6
+  }
+}

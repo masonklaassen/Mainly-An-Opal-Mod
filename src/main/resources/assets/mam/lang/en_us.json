@@ -1,0 +1,34 @@
+{
+  "item.mam.opal_ingot": "Opal Ingot",
+  "item.mam.opal_dust": "Opal Dust",
+  "item.mam.opal_dust.jei.line1": "obtained by using opal ore and the netherite ore hammer",
+  "item.mam.opal_dust.jei.line2": "place these inside of a crafting table and you will receive ingots",
+
+  "block.mam.opal_block": "Opal Block",
+  "block.mam.opal_ore": "Opal Ore",
+  "block.mam.opal_stairs": "Opal Stairs",
+  "block.mam.opal_slab": "Opal Slab",
+  "block.mam.grinder": "Ore Grinder",
+  "item.mam.grinder": "Ore Grinder",
+
+  "item.mam.opal_sword": "Opal Sword",
+  "item.mam.opal_pickaxe": "Opal Pickaxe",
+  "item.mam.opal_axe": "Opal Axe",
+  "item.mam.opal_shovel": "Opal Shovel",
+
+  "item.mam.armor_opal_head": "Opal Helmet",
+  "item.mam.armor_opal_body": "Opal Chestplate",
+  "item.mam.armor_opal_leggings": "Opal Leggings",
+  "item.mam.armor_opal_boots": "Opal Boots",
+  "item.mam.opal_armor.line1": "A diamond killer armor set",
+
+  "item.mam.opal_ore": "Opal Ore",
+  "item.mam.opal_ore.line1": "found between y=1 and y=13",
+
+  "container.mim.grinder": "Grinder",
+
+  "itemGroup.group": "Mainly Additions",
+  "itemGroup.mam.group": "Mainly Additions",
+  "itemGroup.mam": "Mainly Additions",
+  "itemGroup.group.mam": "Mainly Additions"
+}

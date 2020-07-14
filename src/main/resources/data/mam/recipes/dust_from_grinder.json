@@ -1,0 +1,8 @@
+{
+  "type": "mam:grinder",
+  "ingredient": {
+    "item": "mam:opal_ore"
+  },
+  "result": "mam:opal_dust",
+  "count": 2
+}

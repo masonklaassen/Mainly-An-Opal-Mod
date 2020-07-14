@@ -1,0 +1,47 @@
+
+modLoader="javafml"
+
+loaderVersion="[32,)"
+
+issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]]
+
+modId="mam"
+
+version="1.0"
+
+displayName="Mainly Additions"
+
+updateJSONURL="http://myurl.me/"
+
+displayURL="http://example.com/"
+
+logoFile="examplemod.png"
+
+credits="MainlyLazy and Forge Documentation"
+
+authors="MainlyLazy"
+
+description='''
+MainlyAdditions
+'''
+
+[[dependencies.mam]]
+
+    modId="forge"
+
+    mandatory=true
+
+    versionRange="[32,)"
+
+    ordering="NONE"
+
+    side="BOTH"
+
+[[dependencies.mam]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.1]"
+    ordering="NONE"
+    side="BOTH"

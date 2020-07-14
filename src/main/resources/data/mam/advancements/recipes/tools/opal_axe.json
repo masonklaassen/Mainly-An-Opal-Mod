@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "mam:opal_axe"
+    ]
+  },
+  "criteria": {
+    "has_opal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mam:opal_ingot"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "mam:opal_axe"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_opal",
+      "has_the_recipe"
+    ]
+  ]
+}
